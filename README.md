@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on some team to start creating something great. 
 - 📫 How to reach me: my everytime secondary E-mail is sonikprogrammer@gmail.com
 
-Localization: RU/ru
-SonikPr, С++/С# разработчик, музыкант, любитель нового софта и производительного железа.
+
 
 <!---
 SonikPr/SonikPr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
